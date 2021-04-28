@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayAudio : MonoBehaviour
 {
     public AudioSource sound;
-    public AudioSource music;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -13,11 +12,9 @@ public class PlayAudio : MonoBehaviour
         if (sound.isPlaying)
         {
             sound.Pause();
-            music.Pause();
         }
         else
         {
-            music.Play();
             sound.Play();
         }
     }
