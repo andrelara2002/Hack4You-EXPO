@@ -3,7 +3,7 @@ Desenvolvimento de projeto em realidade virtual para a empresa SAP, utilizando a
 
 #Atingimos o primeiro lugar!
 
-*Com nosso projeto de exposição interativa com histórias e representações de equipamentos eletrônicos, desde sua criação, abordamos a evolução tanto da empresa quanto da tecnologia com uma experiência que leva o jogador a querer explorar o local e descobrir por conta própria.*
+*Com nosso projeto de exposição interativa de histórias e representações dos equipamentos eletrônicos, desde sua criação, abordamos a evolução tanto da empresa quanto da tecnologia com uma experiência que leva o jogador a querer explorar o local e descobrir por conta própria.*
 
 Abordamos os seguintes temas dentro de nossa apresentação.
 - Big Data: A história e futuro da tecnologia de armazenamento no brasil e no mundo.
