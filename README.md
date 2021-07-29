@@ -8,4 +8,5 @@ Desenvolvimento de projeto em realidade virtual para a empresa SAP, utilizando a
 Abordamos os seguintes temas dentro de nossa apresentação.
 - Big Data: A história e futuro da tecnologia de armazenamento no brasil e no mundo.
 - IoT: Como os aparelhos conectados dentro de casa e nas empresas influenciam a forma que vemos o mundo
-- Inclusão social: 
+- Inclusão social: Como a inclusão de pessoas revolucionou o mundo, com dons e talentos nunca antes desenvolvidos.
+- Gestão empresarial: A forma como a tecnologia e gestão de pessoas da SAP revolucionou o mundo empresarial.
