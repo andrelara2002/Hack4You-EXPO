@@ -10,3 +10,7 @@ Abordamos os seguintes temas dentro de nossa apresentação.
 - IoT: Como os aparelhos conectados dentro de casa e nas empresas influenciam a forma que vemos o mundo
 - Inclusão social: Como a inclusão de pessoas revolucionou o mundo, com dons e talentos nunca antes desenvolvidos.
 - Gestão empresarial: A forma como a tecnologia e gestão de pessoas da SAP revolucionou o mundo empresarial.
+
+# Ferramentas utilizadas:
+- Narração natural (Microsoft Edge)
+- Unity 3D
