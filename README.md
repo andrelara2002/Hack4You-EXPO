@@ -1,16 +1,16 @@
-# Projeto Hack4You(th) 2021 da SAP
-Desenvolvimento de projeto em realidade virtual para a empresa SAP, utilizando a linguagem C# e a engine Unity 3D com o objetivo de melhorar as habilidades do time de convivência com desenvolvimento de projetos.
+# SAP's Hack4You(th) 2021 Project
+Development of a virtual reality project for the company SAP, using the C# language and Unity 3D engine with the aim of improving the team's skills in project development.
 
-#Atingimos o primeiro lugar!
+## 🏆 We achieved first place!
 
-*Com nosso projeto de exposição interativa de histórias e representações dos equipamentos eletrônicos, desde sua criação, abordamos a evolução tanto da empresa quanto da tecnologia com uma experiência que leva o jogador a querer explorar o local e descobrir por conta própria.*
+*With our interactive exhibition project of stories and representations of electronic equipment, from its creation, we addressed the evolution of both the company and technology with an experience that leads the player to want to explore the place and discover on their own.*
 
-Abordamos os seguintes temas dentro de nossa apresentação.
-- Big Data: A história e futuro da tecnologia de armazenamento no brasil e no mundo.
-- IoT: Como os aparelhos conectados dentro de casa e nas empresas influenciam a forma que vemos o mundo
-- Inclusão social: Como a inclusão de pessoas revolucionou o mundo, com dons e talentos nunca antes desenvolvidos.
-- Gestão empresarial: A forma como a tecnologia e gestão de pessoas da SAP revolucionou o mundo empresarial.
+## We addressed the following topics within our presentation:
+- ***Big Data:*** The history and future of storage technology in Brazil and the world.
+- ***IoT:*** How connected devices in homes and businesses influence the way we see the world.
+- ***Social inclusion:*** How the inclusion of people has revolutionized the world, with talents and skills never before developed.
+- ***Business management:*** How SAP's technology and people management has revolutionized the business world.
 
-# Ferramentas utilizadas:
-- Narração natural (Microsoft Edge)
+# Tools used:
+- Natural narration (Microsoft Edge)
 - Unity 3D
